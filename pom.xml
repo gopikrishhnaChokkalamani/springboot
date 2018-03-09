@@ -70,5 +70,6 @@
 		<module>kafkaConsumer</module>
 		<module>zipkinServer</module>
 		<module>zipkinService1</module>
+		<module>redis-sender-reciever</module>
 	</modules>
 </project>
